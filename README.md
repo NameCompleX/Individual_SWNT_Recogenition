@@ -15,13 +15,6 @@
 - **Train.ipynb**：用于训练模型
 - **Test.ipynb**：用于测试模型
 
-## 环境依赖
-
-- **requirements.txt**：包含运行所需的环境依赖
-- ```text
-  pip install -r requirements.txt
-  ```
-
 ## 演示数据
 
 - **GT_demo/**：包含示例的真实位置（Ground Truth）数据
